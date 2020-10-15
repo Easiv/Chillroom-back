@@ -1,0 +1,21 @@
+{
+  "name": "Chillroom-back",
+  "version": "1.0.0",
+  "description": "tu się też będzie działo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Easiv/Chillroom-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Easiv/Chillroom-back/issues"
+  },
+  "homepage": "https://github.com/Easiv/Chillroom-back#readme"
+}
